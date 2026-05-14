@@ -1,2 +1,2 @@
-pyserial==3.5
-openpyxl==3.10.10
+pyserial>=3.4
+openpyxl>=3.8
